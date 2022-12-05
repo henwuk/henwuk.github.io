@@ -134,8 +134,13 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: -63px;
+    width: auto;
+    margin-top: 49px;
     margin-right: 85px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 3px;
   }
 }
 
